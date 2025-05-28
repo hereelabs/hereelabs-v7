@@ -53,7 +53,7 @@
           paths:
             - /Maps/Shuttles/trading_outpost.yml
         mining: !type:GridSpawnGroup
-          nameDataset: NamesBorer
+          nameDataset: NamesReclaimer
           paths:
           - /Maps/Shuttles/mining.yml
         # Spawn last
