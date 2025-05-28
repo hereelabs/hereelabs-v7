@@ -306,3 +306,9 @@ Resources/MapImages
 
 # Direnv stuff
 .direnv/
+
+# secrets
+Resources/Prototypes/+secret/
+Resources/Textures/+secret/
+Resources/Audio/+secret/
+Resources/Locale/+secret/
