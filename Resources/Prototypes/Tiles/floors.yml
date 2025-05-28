@@ -1,7 +1,7 @@
 - type: tile
   id: FloorSteel
   name: tiles-steel-floor
-  sprite: /Textures/Tiles/steel.png
+  sprite: /Textures/_hereelabs/Tiles/steel.png
   variants: 4
   placementVariants:
   - 1.0
@@ -37,7 +37,7 @@
 - type: tile
   id: FloorSteelCheckerDark
   name: tiles-steel-floor-checker-dark
-  sprite: /Textures/Tiles/checker_dark.png
+  sprite: /Textures/_hereelabs/Tiles/checker_dark.png
   variants: 4
   placementVariants:
   - 1.0
@@ -217,7 +217,7 @@
 - type: tile
   id: FloorPlastic
   name: tiles-plastic-floor
-  sprite: /Textures/Tiles/plastic.png
+  sprite: /Textures/_hereelabs/Tiles/tile_full.png
   variants: 4
   placementVariants:
   - 1.0
@@ -255,7 +255,7 @@
 - type: tile
   id: FloorWhite
   name: tiles-white-floor
-  sprite: /Textures/Tiles/white.png
+  sprite: /Textures/_hereelabs/Tiles/white.png
   variants: 4
   placementVariants:
   - 1.0
@@ -339,7 +339,7 @@
 - type: tile
   id: FloorWhiteMono
   name: tiles-white-floor-mono
-  sprite: /Textures/Tiles/white_mono.png
+  sprite: /Textures/_hereelabs/Tiles/white_mono.png
   variants: 4
   placementVariants:
   - 1.0
@@ -411,7 +411,7 @@
 - type: tile
   id: FloorWhitePlastic
   name: tiles-plastic-white-floor
-  sprite: /Textures/Tiles/white_plastic.png
+  sprite: /Textures/_hereelabs/Tiles/tile_fulllight.png
   variants: 4
   placementVariants:
   - 1.0
@@ -429,7 +429,7 @@
 - type: tile
   id: FloorDark
   name: tiles-dark-floor
-  sprite: /Textures/Tiles/dark.png
+  sprite: /Textures/_hereelabs/Tiles/dark.png
   variants: 4
   placementVariants:
   - 1.0
@@ -513,7 +513,7 @@
 - type: tile
   id: FloorDarkMono
   name: tiles-dark-floor-mono
-  sprite: /Textures/Tiles/dark_mono.png
+  sprite: /Textures/_hereelabs/Tiles/dark_mono.png
   variants: 4
   placementVariants:
   - 1.0
@@ -585,7 +585,7 @@
 - type: tile
   id: FloorDarkPlastic
   name: tiles-plastic-dark-floor
-  sprite: /Textures/Tiles/dark_plastic.png
+  sprite: /Textures/_hereelabs/Tiles/tile_fulldark.png
   variants: 4
   placementVariants:
   - 1.0
@@ -603,7 +603,13 @@
 - type: tile
   id: FloorTechMaint
   name: tiles-techmaint-floor
-  sprite: /Textures/Tiles/tech_maint.png
+  sprite: /Textures/_hereelabs/Tiles/tech_maint.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
   baseTurf: Plating
   isSubfloor: false
   deconstructTools: [ Prying ]
@@ -615,7 +621,13 @@
 - type: tile
   id: FloorReinforced
   name: tiles-reinforced-floor
-  sprite: /Textures/Tiles/reinforced.png
+  sprite: /Textures/_hereelabs/Tiles/reinforced.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
   baseTurf: Plating
   isSubfloor: false
   deconstructTools: [ Prying ]
@@ -627,7 +639,13 @@
 - type: tile
   id: FloorMono
   name: tiles-mono-floor
-  sprite: /Textures/Tiles/mono.png
+  sprite: /Textures/_hereelabs/Tiles/mono.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
   baseTurf: Plating
   isSubfloor: false
   deconstructTools: [ Prying ]
@@ -790,7 +808,13 @@
 - type: tile
   id: FloorHydro
   name: tiles-hydro-floor
-  sprite: /Textures/Tiles/hydro.png
+  sprite: /Textures/_hereelabs/Tiles/hydro.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
   baseTurf: Plating
   isSubfloor: false
   deconstructTools: [ Prying ]
@@ -802,7 +826,7 @@
 - type: tile
   id: FloorBar
   name: tiles-bar-floor
-  sprite: /Textures/Tiles/bar.png
+  sprite: /Textures/_hereelabs/Tiles/bar.png
   variants: 4
   placementVariants:
   - 1.0
@@ -844,7 +868,13 @@
 - type: tile
   id: FloorKitchen
   name: tiles-kitchen-floor
-  sprite: /Textures/Tiles/kitchen.png
+  sprite: /Textures/_hereelabs/Tiles/kitchen.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
   baseTurf: Plating
   isSubfloor: false
   deconstructTools: [ Prying ]
@@ -1705,7 +1735,13 @@
 - type: tile
   id: FloorTechMaint2
   name: tiles-techmaint2-floor
-  sprite: /Textures/Tiles/steel_maint.png
+  sprite: /Textures/_hereelabs/Tiles/techfloor.png
+  variants: 4
+  placementVariants:
+  - 1.0
+  - 1.0
+  - 1.0
+  - 1.0
   baseTurf: Plating
   isSubfloor: false
   deconstructTools: [ Prying ]
@@ -1717,7 +1753,7 @@
 - type: tile
   id: FloorTechMaint3
   name: tiles-techmaint3-floor
-  sprite: /Textures/Tiles/grating_maint.png
+  sprite: /Textures/_hereelabs/Tiles/techfloor_grid.png
   variants: 4
   placementVariants:
   - 1.0
