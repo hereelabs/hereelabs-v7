@@ -12,6 +12,10 @@
       "directions": 4
     },
     {
+      "name": "opening_unlit",
+      "directions": 4
+    },
+    {
       "name": "open",
       "directions": 4
     },

@@ -628,6 +628,10 @@
       "directions": 4
     },
     {
+      "name": "closed_unlit",
+      "directions": 4
+    },
+    {
       "name": "note_opening",
       "directions": 4,
       "delays": [
