@@ -1,6 +1,10 @@
-<p align="center"> <img alt="Space Station 14" width="400" height="400" src="https://raw.githubusercontent.com/Doctor-Cpu/space-station-14/mira/mira.png" /></p>
+## hereelabs v7
 
-Mira's special repo to publicly host.
+hereelabs v7. The start of a new era. When I think of eras, I think of ears of corn. Corn is pretty tasty. You can put butter on it, and it goes well with mashed potatoes. Speaking of potatoes, I never knew that a potato caused the irish potato famine. Did you know that? I didn't! But you learn more everyday. That is why books are so important. You know, this game has books. There even is a Librarian role! Would you look at that, a role... that serves no purpose! Well, it kinda does, but not entirely. The librarian role is more of a... how do I put it... special role. Only few people can understand it. That reminds me of all the other roles that seemingly have no purpose, like Musician or... well, Musician. I mean, the Clown is important because of its history, and the Mime is ALWAYS getting up to some CRAZY antics... like the clown,  but quieter.
+
+## space station 14 stuff
+
+This is a fork of Mira Station. They did all the work, I'm just slapping stuff on top of it and calling it a day. Give them all the love you can muster.
 
 Space Station 14 is a remake of SS13 that runs on [Robust Toolbox](https://github.com/space-wizards/RobustToolbox), our homegrown engine written in C#.
 
