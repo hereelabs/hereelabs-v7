@@ -577,6 +577,10 @@ MuteToxinChemistryBottle: ChemistryBottleMuteToxin
 LeadChemistryBottle: ChemistryBottleLead
 ToxinChemistryBottle: ChemistryBottleToxin
 
+# hereelabs
+# blanket fix for most maps
+ComputerCargoShuttle: ComputerShuttleSalvage
+
 # Mira
 # 2024-07-28
 WeaponSubMachineGunWt550: WeaponEnergyShotgun
