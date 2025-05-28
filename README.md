@@ -16,7 +16,7 @@ Our [docs site](https://docs.spacestation14.io/) has documentation on SS14s cont
 
 ## Contributing
 
-Feel free to send either a pull request or let me know and ill 9/10 merge it.
+So long as it *kinda* works, I'll merge it. If it breaks stuff, I'll revert it. Simple as!
 
 ## Building
 
